@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+body  {
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    background-color: #0e0f37;
+    color: #e8e8ed;
+}
+
+h1 {
+    font-size: 11rem;
+}
+
+h2 {
+    font-size: 2rem;
+    padding: 4%;
+    margin-top: -3%;
+}
+
+img {
+    max-width: 80%;
+    padding: 2% 0;
+}
